@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardEmulation Example</string>
+
+
+    <!-- HCE Configuration -->
+    <string name="apdu_description">Sokin Pay</string>
+    <string name="aid_group_description">Sokin Pay is the best.</string>
+    <string name="aid_ppse_description">Proximity Payment System Environment (PPSE)</string>
+    <string name="aid_mastercard_description">MasterCard</string>
+</resources>
